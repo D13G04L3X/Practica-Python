@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">En este repositorio encontrarás el las carpetas del curso, donde se dicta un curso dedicado al uso de un principiante en Python, junto con algunos ejercicios resueltos usando lógica de programación, interfaces gráficas y algunos test de conocimiento para evaluar las capacidades aprendidas.</p>
+<p align="left">En este repositorio encontrarás las carpetas del curso, donde se dicta un curso dedicado al uso de un principiante en Python, junto con algunos ejercicios resueltos usando lógica de programación, interfaces gráficas y algunos test de conocimiento para evaluar las capacidades aprendidas.</p>
 
 ###
 
