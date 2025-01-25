@@ -23,6 +23,7 @@ clock = pygame.time.Clock()
 snake_pos = [100,50]        # Definir la posición inicial de la cabeza de la serpiente
 snake_body = [[100,50],[90,50],[80,50]]         # Lista de bloques que representan el cuerpo del snake
 direction = 'RIGHT'     # Dirección actual del movimiento a la derecha
+change_to = direction   # Dirección próxima del movimiento
 
 # Variables de la comida
 food_pos = [random.randrange(1, (WIDTH // 10)) * 10, random.randrange(1, (HEIGHT // 10)) * 10]      # Posición inicial de la comida, que se genera aleatoriamente.
@@ -59,7 +60,7 @@ while True:
                 change_to = 'RIGHT' 
 
     # Cambiar la dirección
-    # direction = change_to
+    direction = change_to
 
     # Actualizar la posición de la Snake según la dirección elegida
     if direction == 'UP':
