@@ -20,6 +20,8 @@
 <p align="left">Colas</p>
 <p align="left">Agrupación de conocimientos por medio de ejercicios</p>
 <p align="left">Uso de librería Pygame, para juegos como Snake</p>
+<p align="left">Estructuras de control: Switch</p>
+<p align="left"> </p>
 
 ###
 
