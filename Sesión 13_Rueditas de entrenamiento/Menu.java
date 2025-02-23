@@ -1,7 +1,4 @@
-'''
-Do-While: garantiza que el código se ejecute al menos una vez, independiente de la condición.
-
-'''
+// Do-While: garantiza que el código se ejecute al menos una vez, independiente de la condición.
 
 import java.util.Scanner;
 
@@ -11,12 +8,12 @@ public class Menu {
         int opcion;
 
         do {
-            System.out.println("1. Jugar");
+            System.out.println("\n1. Jugar");
             System.out.println("2. Salir");
             System.out.print("Selecciona una opción: ");
             opcion = sc.nextInt();
         } while (opcion != 2);
 
-        System.out.println("Juego temrinado.");
+        System.out.println("Juego terminado.");
     }
 }

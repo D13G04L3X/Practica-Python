@@ -1,3 +1,4 @@
+# from collections import deque
 '''
 Cola, es una estructura de datos que sigue el principio FIFO (First in, first out), primero en entrar es el 
 primero en salir
@@ -15,7 +16,7 @@ print(cola)
 
 print("Primer elemento de la cola: ", cola[0])
 
-elemento = cola.pop(2)
+elemento = cola.popleft()
 
 print("Elemento atendido: ", elemento)
 print("Cola después de desencolar: ", list(cola))
