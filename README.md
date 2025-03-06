@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">En este repositorio encontrarás las carpetas del curso, donde se dicta un curso dedicado al uso de un principiante en Python, junto con algunos ejercicios resueltos usando lógica de programación, interfaces gráficas y algunos test de conocimiento para evaluar las capacidades aprendidas.</p>
+<p align="left">En este repositorio encontrarás las carpetas de la clase, donde se dicta un curso dedicado al uso de un principiante en Python, junto con algunos ejercicios resueltos usando lógica de programación, interfaces gráficas y algunos test de conocimiento para evaluar las capacidades aprendidas.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 <p align="left">Colas</p>
 <p align="left">Agrupación de conocimientos por medio de ejercicios</p>
 <p align="left">Uso de librería Pygame, para juegos como Snake</p>
-<p align="left">Estructuras de control: Switch</p>
+<p align="left">Estructuras de control: Switch, Match Case</p>
 <p align="left"> </p>
 
 ###
